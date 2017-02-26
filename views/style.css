@@ -1,15 +1,10 @@
-body {
-    background: #34495e;
-    color: black;
-    padding: 50px;
-	
-}
-
 main {
     padding-top: 51px;/*navbar height*/
 }
 
-
+.marker {
+    font-family: 'Permanent Marker', cursive;
+}
 
 .first-upper {
     text-transform: capitalize;
@@ -44,6 +39,8 @@ main {
 }
 
 .data-value-label {
+    color: #aaa;
+    font-style: italic;
     font-size: 14px;
 }
 
